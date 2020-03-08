@@ -279,7 +279,7 @@ _**Please see conclusions and plots for the above models as follows:**_
         2. `Seasonal_Rolling_7_Seasons`
         3. `Monthly_Rolling_9_Months`
 
-* Out-of-Sample performance has higher R2s and lower RMSEs for each of the models because they have more data
+* Out-of-Sample performance has higher R2s and lower RMSEs for each of the models because they have less data compared to in-sample training
     * One year of testing data vs. 27 years of training data
 
 * The fall seasonal dummy produces output statistics close to those of summer_winter dummies due to possible following reasons: 
