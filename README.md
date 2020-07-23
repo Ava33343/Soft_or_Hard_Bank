@@ -1,6 +1,6 @@
-# timeseries-homework
+# Soft or Hard Bank?
 
-# Unit 10—A Yen for the Future
+### _Time Series — A Yen for the Future_
 
 ## **_Zooming in Yen Futures_**
 
